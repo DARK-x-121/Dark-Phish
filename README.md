@@ -2,7 +2,7 @@
 
 ![Dark Phish Banner](https://img.shields.io/badge/Team-Dark-red?style=for-the-badge)  
 **A Next-Gen Cloudflare-Based Phishing Tool by Team Dark**  
-**Developer:** @ᴺᴼ--N̶ᴀ̶ᴍ̶ᴇ̷ | **Version:** 1.0 | **Status:** Active 🔥
+**Developer:** @dark_exploit_. | **Version:** 1.0 | **Status:** Active 🔥
 
 ---
 
